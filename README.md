@@ -1,3 +1,5 @@
-# --------------- Dylan's Reading Notes ---------------
+# ----------------- Dylan's Reading Notes -----------------
 
 ## Growth Mindset
+
+Having a growth mindset 

@@ -2,4 +2,4 @@
 
 ## Growth Mindset
 
-Having a growth mindset 
+Having a growth mindset means

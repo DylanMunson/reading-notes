@@ -1,6 +1,6 @@
 # ----------------- Dylan's Reading Notes -----------------
 
-[Class 1: Markdown]
+[Class 1: Markdown](https://dylanmunson.github.io/read01.html)
 
 
 ## Growth Mindset

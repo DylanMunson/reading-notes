@@ -7,4 +7,4 @@ A basic text editor just displays text in one color, usually with a lot fewer ad
 Coding-specific text editors are typically able to do much more than a basic text editor. Often, it offers syntax highlighting, code snippets, autocompletion, more advanced navigation, etc. 
 An IDE can have many features, It's basically a text editor, a file manager, a compiler, and a debugger all in one. It can have just about every bell and whistle you could need, and would take a long time to master.
 
-[Back]()
+[Back](https://dylanmunson.github.io/reading-notes/)

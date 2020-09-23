@@ -1,6 +1,7 @@
 # ----------------- Dylan's Reading Notes -----------------
 
 [Class 1: Markdown](https://dylanmunson.github.io/reading-notes/read01.html)
+
 [Class 2: Coder's Computer](https://dylanmunson.github.io/reading-notes/read02.html)
 
 

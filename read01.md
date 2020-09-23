@@ -2,7 +2,7 @@
 
 ## Headings
 
-To have headings using the markdown syntax is very straightforward. Headings use the pound sign before the heading text in any amount of 1 - 6, and the size scales down as you use more. One "#" is the largest, and 6 is the smallest. 
+To have headings using the markdown syntax is very straightforward. Headings use the pound sign before the heading text in any amount of 1 - 6, and the size scales down as you use more. One "#" is the largest, and 6 is the smallest.
 
 ## Styling text
 

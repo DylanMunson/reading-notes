@@ -10,6 +10,8 @@
 
 [Reading 3: Revisions and the Cloud](https://dylanmunson.github.io/reading-notes/read03.html)
 
+[Reading 4: Structure web pages with HTML](https://dylanmunson.github.io/reading-notes/read04.html)
+
 ### About Me
 
 > My name is Dylan Munson, I'm 17 and I live in Port Orchard. I'm planning on becoming a software developer because I'm interested in how programming works and I like building things from the ground up and being able to control every aspect of it.

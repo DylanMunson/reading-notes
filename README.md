@@ -18,6 +18,8 @@
 
 [Reading 6b: Computer Architecture and Logic](https://dylanmunson.github.io/reading-notes/read06b.html)
 
+[Reading 7: Programming with JavaScipt](https://dylanmunson.github.io/reading-notes/read07.html)
+
 ### About Me
 
 > My name is Dylan Munson, I'm 17 and I live in Port Orchard. I'm planning on becoming a software developer because I'm interested in how programming works and I like building things from the ground up and being able to control every aspect of it.

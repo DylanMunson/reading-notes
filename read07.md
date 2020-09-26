@@ -1,4 +1,4 @@
-# Programming with JavaScript
+# Read 7: Programming with JavaScript
 
 ## Writing a script
 

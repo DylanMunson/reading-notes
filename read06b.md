@@ -1,8 +1,8 @@
 # Read 6b: Computer Architecture and Logic
 
-## What makes a computer, a computer?
+## What makes a computer, a computer
 
-Computers are very complex while also being very simple if you look at the bigger picture. All computers have 4 tasks that classify them as a computer, which are the input, processing, storage, and eventually the output. The input takes information from another source, processes it, stores it, and eventually outputs it to the world. 
+Computers are very complex while also being very simple if you look at the bigger picture. All computers have 4 tasks that classify them as a computer, which are the input, processing, storage, and eventually the output. The input takes information from another source, processes it, stores it, and eventually outputs it to the world.
 
 ## Binary
 

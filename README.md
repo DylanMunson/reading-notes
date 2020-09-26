@@ -14,6 +14,10 @@
 
 [Reading 5: Design web pages with CSS](https://dylanmunson.github.io/reading-notes/read05.html)
 
+[Reading 6a: Dynamic web pages with JavaScript](https://dylanmunson.github.io/reading-notes/read06a.html)
+
+[Reading 6b: Computer Architecture and Logic](https://dylanmunson.github.io/reading-notes/read06b.html)
+
 ### About Me
 
 > My name is Dylan Munson, I'm 17 and I live in Port Orchard. I'm planning on becoming a software developer because I'm interested in how programming works and I like building things from the ground up and being able to control every aspect of it.
